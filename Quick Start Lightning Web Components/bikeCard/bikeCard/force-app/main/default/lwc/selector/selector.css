@@ -3,7 +3,7 @@ body {
 } 
 .wrapper{
   min-height: 100vh;
-  background: #ccc;
+  background: ccc;
   display: flex;
   flex-direction: column;
 }
@@ -17,8 +17,8 @@ body {
 .content {
   display: flex;
   flex: 1;
-  background: #999;
-  color: #000; 
+  background: 999;
+  color: 000; 
 }
 .columns{
   display: flex;
@@ -27,15 +27,15 @@ body {
 .main{
   flex: 1;
   order: 2;
-  background: #eee;
+  background: eee;
 }
 .sidebar-first{
   width: 20%;
-  background: #ccc;
+  background: ccc;
   order: 1;
 }
 .sidebar-second{ 
   width: 30%;
   order: 3;
-  background: #ddd;
+  background: ddd;
 }
